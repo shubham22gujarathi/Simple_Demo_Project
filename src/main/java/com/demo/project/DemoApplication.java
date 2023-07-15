@@ -10,4 +10,9 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
+	public void abc()
+	{
+		System.out.println("manoj4");
+	}
+
 }
