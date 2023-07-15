@@ -15,4 +15,9 @@ public class DemoApplication {
 		System.out.println("In Employee Method");
 	}
 
+	public void abc()
+	{
+		System.out.println("manoj4");
+	}
+
 }
