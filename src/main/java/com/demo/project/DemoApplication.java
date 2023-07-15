@@ -11,4 +11,8 @@ public class DemoApplication {
 		System.out.println("I am in main method");
 	}
 
+	public void Employee(){
+		System.out.println("In Employee Method");
+	}
+
 }
